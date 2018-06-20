@@ -1,0 +1,6 @@
+framework module Pods_MaterialDesignControl {
+  umbrella header "Pods-MaterialDesignControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
